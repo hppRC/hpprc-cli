@@ -1,8 +1,11 @@
 {
   "name": "hpprc",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "main": "dist/index.js",
   "license": "MIT",
+  "bin": {
+    "hpprc": "./bin/main.js"
+  },
   "devDependencies": {
     "@types/ink": "^2.0.3",
     "@types/node": "^13.7.7",
