@@ -1,0 +1,28 @@
+{
+  "name": "hpprc",
+  "version": "0.1.0",
+  "main": "dist/index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/ink": "^2.0.3",
+    "@types/node": "^13.7.7",
+    "rollup": "^2.0.0",
+    "rollup-plugin-terser": "^5.2.0",
+    "rollup-plugin-typescript2": "^0.26.0",
+    "tslib": "^1.11.1",
+    "typescript": "^3.8.3"
+  },
+  "scripts": {
+    "test": "rollup -c && node ./dist/index.js",
+    "build": "rollup -c"
+  },
+  "dependencies": {
+    "@types/react": "^16.9.23",
+    "cfonts": "^2.8.0",
+    "ink": "^2.7.1",
+    "ink-big-text": "^1.0.1",
+    "ink-select-input": "^3.1.2",
+    "open": "^7.0.2",
+    "react": "^16.13.0"
+  }
+}
