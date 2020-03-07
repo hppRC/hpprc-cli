@@ -1,0 +1,7 @@
+# hpprc
+
+Run
+
+```
+npx hpprc
+```
