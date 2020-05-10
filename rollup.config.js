@@ -3,21 +3,21 @@ import { terser } from 'rollup-plugin-terser';
 
 export default {
   input: {
-    index: 'src/index.tsx'
+    index: `src/index.tsx`,
   },
   output: {
-    format: 'cjs',
-    dir: './dist/',
-    entryFileNames: '[name].js'
+    format: `cjs`,
+    dir: `./dist/`,
+    entryFileNames: `[name].js`,
   },
   plugins: [
     typescript({
       tsconfigOverride: {
         compilerOptions: {
-          module: 'es2015'
-        }
-      }
+          module: `es2015`,
+        },
+      },
     }),
-    terser()
-  ]
+    terser(),
+  ],
 };
