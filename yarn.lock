@@ -3841,13 +3841,13 @@ term-img@^4.1.0:
     ansi-escapes "^4.1.0"
     iterm2-version "^4.1.0"
 
-terminal-image@^0.2.0:
-  version "0.2.0"
-  resolved "https://registry.yarnpkg.com/terminal-image/-/terminal-image-0.2.0.tgz#c0d94dd8eba295c22ba79cafbaef1c6914a4b81e"
-  integrity sha512-VghwOgzE9PFefbuXI1TwVRbjeqgdKylqzU5ivlYDmplLwgT2+yNG/vsEbGvy6R3dNMeQ8KzdCT4WemRmeKLdXg==
+terminal-image@^1.0.0:
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/terminal-image/-/terminal-image-1.0.0.tgz#7eeae186e63e525e1d2264f9b6e3484cca3ae606"
+  integrity sha512-3VCkGUYWod7djtpVH1Tghoxtp+DJiFQ0dxieJe3jgw8ZERS4i2pjw6tG3dOVXZOjlC9USgsHmxC4jiSj89pm1g==
   dependencies:
     "@sindresorhus/jimp" "^0.3.0"
-    chalk "^2.4.2"
+    chalk "^4.0.0"
     term-img "^4.1.0"
 
 terser@^4.6.2:
