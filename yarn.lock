@@ -3840,6 +3840,14 @@ term-img@^4.1.0:
     ansi-escapes "^4.1.0"
     iterm2-version "^4.1.0"
 
+term-img@^5.0.0:
+  version "5.0.0"
+  resolved "https://registry.yarnpkg.com/term-img/-/term-img-5.0.0.tgz#d563b82b9dad2a8a6cc28e07dc613a62d9273911"
+  integrity sha512-Wpi50MA7bJwJKi5bVYu/t+xu9kNqesdzg6gWHOh3+1R9NRx1LmYoCMly9bUiabMZPNPH3juT8lOhZxUYxPEIBw==
+  dependencies:
+    ansi-escapes "^4.1.0"
+    iterm2-version "^4.1.0"
+
 terminal-image@^1.0.0:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/terminal-image/-/terminal-image-1.0.0.tgz#7eeae186e63e525e1d2264f9b6e3484cca3ae606"

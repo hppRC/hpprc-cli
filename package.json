@@ -48,7 +48,7 @@
     "ink-select-input": "^3.1.2",
     "open": "^7.0.2",
     "react": "^16.13.0",
-    "term-img": "^4.1.0",
+    "term-img": "^5.0.0",
     "terminal-image": "^1.0.0"
   }
 }
