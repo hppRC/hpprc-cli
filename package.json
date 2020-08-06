@@ -31,7 +31,7 @@
     "stylelint-declaration-block-no-ignored-properties": "2.3.0",
     "stylelint-no-unsupported-browser-features": "4.0.0",
     "stylelint-order": "4.1.0",
-    "tslib": "2.0.0",
+    "tslib": "2.0.1",
     "typescript": "3.9.7",
     "@types/react": "16.9.44"
   },
