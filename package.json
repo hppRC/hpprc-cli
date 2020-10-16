@@ -22,7 +22,7 @@
     "prettier": "2.1.2",
     "rollup": "2.31.0",
     "rollup-plugin-terser": "7.0.2",
-    "rollup-plugin-typescript2": "0.27.3",
+    "rollup-plugin-typescript2": "0.28.0",
     "stylelint": "13.7.2",
     "stylelint-config-recess-order": "2.1.0",
     "stylelint-config-recommended": "3.0.0",
